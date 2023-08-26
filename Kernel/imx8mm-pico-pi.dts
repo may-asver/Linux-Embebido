@@ -31,7 +31,7 @@
 };
 
 / {
-	model = "TechNexion PICO-IMX8MM and PI baseboard";
+	model = "TechNexion PICO-IMX8MM and PI baseboard-EDITED AWESOME";
 	compatible = "fsl,imx8mm-pico", "fsl,imx8mm";
 
 	regulators {
