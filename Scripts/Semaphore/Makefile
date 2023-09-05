@@ -4,8 +4,8 @@ APP_NAME_READER = smh_reader
 OBJ_FILES_READER = smh_reader.o
 LIBS = .
 
-APP_NAME_WRITTER = smh_writter
-OBJ_FILES_WRITTER = smh_writter.o
+APP_NAME_WRITTER = smh_writer
+OBJ_FILES_WRITTER = smh_writer.o
 
 LIB_DIRS = .
 LIB = pathread
