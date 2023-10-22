@@ -15,9 +15,9 @@
 #include <unistd.h>
 
 
-#define FILENAME "/sys/class/leds/pca995x:red1/brightness" // File to change brightness
+#define FILENAME "/sys/class/leds/pca995x:red0/brightness" // File to change brightness
 #define BRIGHTNESS "100"
-#define TIME 3 // 10 miliseconds
+#define TIME 3 // 3 seconds
 
 
 void writeFile (char * brightness) {
