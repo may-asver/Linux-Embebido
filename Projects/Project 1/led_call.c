@@ -17,7 +17,7 @@
 
 #define FILENAME "/sys/class/leds/pca995x:green0/brightness" // File to change brightness
 #define BRIGHTNESS "100"
-#define TIME 100000 // 10 miliseconds
+#define TIME 100000 // 100 miliseconds
 
 
 void writeFile (char * brightness) {
@@ -31,15 +31,20 @@ void writeFile (char * brightness) {
 }
 
 int main () {
-    while (1) {
+    int i = 0;
+    while (i != 50) {
     	// Turn on
     	writeFile(BRIGHTNESS);
     	usleep(TIME);
     	// Turn off
     	writeFile("0");
     	usleep(TIME);
+    	i++;
     }
+    
     writeFile("0");
     return 0;
+    
 }
+
 
