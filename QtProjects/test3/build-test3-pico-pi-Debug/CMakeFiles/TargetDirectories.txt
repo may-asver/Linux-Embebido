@@ -1,0 +1,9 @@
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/test3.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/edit_cache.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/rebuild_cache.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/list_install_components.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/install.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/install/local.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/install/strip.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/test3_autogen_timestamp_deps.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test3/build-test3-pico-pi-Debug/CMakeFiles/test3_autogen.dir

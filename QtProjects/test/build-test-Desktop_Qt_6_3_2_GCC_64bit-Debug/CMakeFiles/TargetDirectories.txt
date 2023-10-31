@@ -1,0 +1,9 @@
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/test.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/test_autogen_timestamp_deps.dir
+/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/CMakeFiles/test_autogen.dir

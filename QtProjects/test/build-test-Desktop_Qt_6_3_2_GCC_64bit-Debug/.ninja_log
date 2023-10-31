@@ -1,0 +1,9 @@
+# ninja log v5
+0	1013	1698287372678963408	test_autogen/timestamp	e967161cb557183c
+0	1013	1698287372678963408	test_autogen/mocs_compilation.cpp	e967161cb557183c
+0	1013	1698287372678963408	/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/test_autogen/timestamp	e967161cb557183c
+0	1013	1698287372678963408	/home/iot-user/Documents/Linux-Embebido/QtProjects/test/build-test-Desktop_Qt_6_3_2_GCC_64bit-Debug/test_autogen/mocs_compilation.cpp	e967161cb557183c
+1014	15311	1698287386979754641	CMakeFiles/test.dir/main.cpp.o	abadb98dfe3b6c65
+1013	15362	1698287387023756597	CMakeFiles/test.dir/test_autogen/mocs_compilation.cpp.o	654ece59caee4efa
+1014	15401	1698287387063758339	CMakeFiles/test.dir/mainwindow.cpp.o	1ffed491b6d2179d
+15401	16086	1698287387739787785	test	d3aee99be7315a7d

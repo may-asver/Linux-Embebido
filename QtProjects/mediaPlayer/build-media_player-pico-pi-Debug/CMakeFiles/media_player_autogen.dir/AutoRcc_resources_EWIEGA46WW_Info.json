@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/build-media_player-pico-pi-Debug/media_player_autogen",
+	"CMAKE_BINARY_DIR" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/build-media_player-pico-pi-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/build-media_player-pico-pi-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/media_player",
+	"CMAKE_SOURCE_DIR" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/media_player",
+	"INCLUDE_DIR" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/build-media_player-pico-pi-Debug/media_player_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/media_player/pause.jpg",
+		"/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/media_player/stop.jpg",
+		"/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/media_player/play.jpg"
+	],
+	"LOCK_FILE" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/build-media_player-pico-pi-Debug/CMakeFiles/media_player_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/opt/fsl-imx-xwayland/5.15-kirkstone/sysroots/x86_64-pokysdk-linux/usr/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/build-media_player-pico-pi-Debug/CMakeFiles/media_player_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/iot-user/Documents/Linux-Embebido/QtProjects/mediaPlayer/media_player/resources.qrc",
+	"VERBOSITY" : 0
+}
